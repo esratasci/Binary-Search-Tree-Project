@@ -1,1 +1,1 @@
-# Binary-Search-Tree-Project
+# Project 3 - Binary Search Tree 
